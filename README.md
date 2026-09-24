@@ -1,4 +1,5 @@
 # SplitSimple
+<<<<<<< HEAD
 
 SplitSimple is a lightweight household expense-sharing application for two people.
 
@@ -18,3 +19,4 @@ Users can record shared expenses, split costs, track balances, and record settle
 - Expense editing and deletion
 - Settlements
 - Monthly spending chart
+=======
