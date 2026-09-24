@@ -1,5 +1,4 @@
 # SplitSimple
-<<<<<<< HEAD
 
 SplitSimple is a lightweight household expense-sharing application for two people.
 
